@@ -16,6 +16,8 @@ end
 
 # Use carrierwave for uploading files
 gem 'carrierwave'
+# Use imagemagick
+gem 'mini_magick'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
